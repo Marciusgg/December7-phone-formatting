@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+label {
+  font-size: 1.2em;
+}
+input {
+  margin: 10px 0;
+  padding: 10px;
+  font-size: 1em;
+  width: 250px;
+}
+button {
+  padding: 10px 20px;
+  font-size: 1em;
+  background: linear-gradient(90deg, green, red);
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #0056b3;
+}
+.output {
+  margin-top: 20px;
+  font-size: 1.2em;
+  font-weight: bold;
+}
